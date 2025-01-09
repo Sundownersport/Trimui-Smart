@@ -1,0 +1,16 @@
+{
+"label":"FBNEO",
+"icon":"ic-fbneo-140-n.png",
+"iconsmall":"ic-fbneo-80-n.png",
+"iconlist":"ic-fbneo-32-n.png",
+"iconsel":"",
+"background":"bg.png",
+"themecolor":"EC7063",
+"launch":"launch.sh",
+"rompath":"../../Roms/FBNEO",
+"imgpath":"../../Imgs/FBNEO",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

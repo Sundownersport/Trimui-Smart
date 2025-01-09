@@ -1,0 +1,24 @@
+{
+"label":"GB",
+"icon":"ic-GB.png",
+"iconsmall":"ic-GB-80-n.png",
+"iconlist":"ic-GB-32-n.png",
+"background":"bg.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/GB",
+"imgpath":"../../Imgs/GB",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+    "extlist":"gb|gbc|zip",
+    "launchlist": [
+        {
+            "name": "GamBatte",
+            "launch": "launch.sh"
+        },
+        {
+            "name": "mGBA",
+            "launch": "launch_mgba.sh"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+"label":"MS",
+"icon":"ic-SMS.png",
+"iconsmall":"ic-SMS-80-n.png",
+"iconlist":"ic-SMS-32.png",
+"background":"bg.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/MS",
+"imgpath":"../../Imgs/MS",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"sms|rom|gg|sg|zip"
+}
