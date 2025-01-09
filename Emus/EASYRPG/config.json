@@ -6,7 +6,7 @@
 "background":"bg.png",
 "launch":"launch.sh",
 "rompath":"../../Roms/EASYRPG",
-"imgpath":"../../Imgs/EASYRPG",
+"imgpath":"../../Roms/EASYRPG/Imgs",
 "useswap":0,
 "shortname":0,
 "hidebios":0,

@@ -6,7 +6,7 @@
 "background":"bg.png",
 "launch":"launch.sh",
 "rompath":"../../Roms/CPS2",
-"imgpath":"../../Imgs/CPS2",
+"imgpath":"../../Roms/CPS2/Imgs",
 "useswap":1,
 "shortname":1,
 "hidebios":1,

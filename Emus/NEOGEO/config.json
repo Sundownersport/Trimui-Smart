@@ -6,7 +6,7 @@
 "background":"bg.png",
 "launch":"launch_fbneo.sh",
 "rompath":"../../Roms/NEOGEO",
-"imgpath":"../../Imgs/NEOGEO",
+"imgpath":"../../Roms/NEOGEO/Imgs",
 "gamelist":"../../Roms/NEOGEO/gamelist.xml",
 "useswap":1,
 "shortname":1,

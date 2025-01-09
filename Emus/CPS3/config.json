@@ -6,7 +6,7 @@
 "background":"bg.png",
 "launch":"launch.sh",
 "rompath":"../../Roms/CPS3",
-"imgpath":"../../Imgs/CPS3",
+"imgpath":"../../Roms/CPS3/Imgs",
 "useswap":1,
 "shortname":1,
 "hidebios":1,

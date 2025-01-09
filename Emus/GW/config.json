@@ -1,5 +1,5 @@
 {
-"label":"GAME&WATCH",
+"label":"Game & Watch",
 "icon":"ic-GW.png",
 "iconsmall":"ic-GW-80-n.png",
 "iconlist":"ic-GW-32-n.png",
@@ -7,7 +7,7 @@
 "themecolor":"FF0000",
 "launch":"launch.sh",
 "rompath":"../../Roms/GW",
-"imgpath":"../../Imgs/GW",
+"imgpath":"../../Roms/GW/Imgs",
 "useswap":1,
 "shortname":0,
 "hidebios":1

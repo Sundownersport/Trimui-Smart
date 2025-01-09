@@ -8,7 +8,7 @@
 "themecolor":"EC7063",
 "launch":"launch.sh",
 "rompath":"../../Roms/FBNEO",
-"imgpath":"../../Imgs/FBNEO",
+"imgpath":"../../Roms/FBNEO/Imgs",
 "useswap":1,
 "shortname":1,
 "hidebios":1,

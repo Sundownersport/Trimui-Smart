@@ -6,7 +6,7 @@
 "background":"bg.png",
 "launch":"launch.sh",
 "rompath":"../../Roms/ARCADE",
-"imgpath":"../../Imgs/ARCADE",
+"imgpath":"../../Roms/ARCADE/Imgs",
 "useswap":1,
 "shortname":1,
 "hidebios":1,

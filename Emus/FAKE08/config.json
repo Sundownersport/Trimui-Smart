@@ -1,5 +1,5 @@
 {
-"label":"PICO8",
+"label":"Fake08",
 "icon":"ic-PICO.png",
 "iconsmall":"ic-pico8-80-n.png",
 "iconlist":"ic-PICO-32-n.png",
@@ -7,7 +7,7 @@
 "themecolor":"00FF88",
 "launch":"launch.sh",
 "rompath":"../../Roms/PICO8",
-"imgpath":"../../Imgs/PICO8",
+"imgpath":"../../Roms/FAKE08/Imgs",
 "useswap":1,
 "shortname":0,
 "hidebios":1,

@@ -1,5 +1,5 @@
 {
-"label":"GAME GEAR",
+"label":"Game Gear",
 "icon":"ic-GG.png",
 "iconsmall":"ic-gamegear-80-n.png",
 "iconlist":"ic-gamegear-32-n.png",
@@ -7,7 +7,7 @@
 "themecolor":"FFFFFF",
 "launch":"launch.sh",
 "rompath":"../../Roms/GG",
-"imgpath":"../../Imgs/GG",
+"imgpath":"../../Roms/GG/Imgs",
 "useswap":1,
 "shortname":0,
 "hidebios":1

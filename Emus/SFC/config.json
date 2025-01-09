@@ -1,5 +1,5 @@
 {
-    "label":"SFC",
+    "label":"SNES",
     "icon":"ic-SFC.png",
     "iconsmall":"ic-SFC-80-n.png",
     "iconlist":"ic-SFC-32-n.png",
@@ -7,7 +7,7 @@
     "themecolor":"FF0000",
     "launch":"launch.sh",
     "rompath":"../../Roms/SFC",
-    "imgpath":"../../Imgs/SFC",
+    "imgpath":"../../Roms/SFC/Imgs",
     "useswap":0,
     "shortname":0,
     "hidebios":0,

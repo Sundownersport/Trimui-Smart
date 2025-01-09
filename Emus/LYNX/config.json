@@ -1,5 +1,5 @@
 {
-"label":"LYNX",
+"label":"Lynx",
 "icon":"ic-LYNX.png",
 "iconsmall":"ic-LYNX-80-n.png",
 "iconlist":"ic-LYNX-32-n.png",
@@ -7,7 +7,7 @@
 "themecolor":"88FF88",
 "launch":"launch.sh",
 "rompath":"../../Roms/LYNX",
-"imgpath":"../../Imgs/LYNX",
+"imgpath":"../../Roms/LYNX/Imgs",
 "useswap":1,
 "shortname":0,
 "hidebios":1,
